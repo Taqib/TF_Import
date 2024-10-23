@@ -112,4 +112,5 @@ Finally, apply the configuration with:
 Since the VPC already exists and is now fully under Terraform management, Terraform will make no changes, but any future changes to the VPC will be handled through Terraform.
 
 Conclusion
+
 You've now learned how to use Terraform's import functionality to bring existing infrastructure under Terraform management. By following the steps in this hands-on lab, you can effectively manage existing AWS resources using Terraform, ensuring that your infrastructure is consistent and reproducible.
